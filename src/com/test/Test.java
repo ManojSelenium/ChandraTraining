@@ -47,6 +47,13 @@ public class Test {
 		l1.add("test4");
 		l1.add("test5");
 
+
+
+
+
+
+
+
 		System.out.println(l.containsAll(l1));
 		
 		
